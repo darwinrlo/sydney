@@ -11,7 +11,7 @@ This is meant to be a primer on building software in the Java ecosystem.
 
 1. Build the program, which produces a JAR.
 ```bash
-mvn clean compile assembly:single
+mvn clean compile package
 ```
 
 2. Run the program.
