@@ -2,6 +2,11 @@
 
 This is meant to be a primer on building software in the Java ecosystem.
 
+## Prerequisites
+
+* JDK 1.9
+* Apache Maven 3.5
+
 ## Running the program
 
 1. Build the program, which produces a JAR.
